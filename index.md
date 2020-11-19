@@ -4,7 +4,7 @@
 
 본 페이지는 개방형OS에서 동작하는 Endpoint DLP(Data Loss Prevention) 에이전트를 개발하는 [GitHub Repository](https://github.com/somansa-oss/endpointdlp) 를 소개합니다.
 
-![Image](docs/300.png)
+![Image](docs/endpointdlp_project.png)
 
 정보유출방지(DLP, Data Loss Prevention)는 조직내 기밀정보가 외부로 유출되는 것을 방지하는 정보보호 솔루션이며, 디바이스에 저장된 기밀정보를 검출하거나, 이동식 저장매체 또는 출력물, 네트워크 전송을 통해 유출되는 기밀정보를 탐지하여 조직의 자산을 보호할 수 있습니다.
 
