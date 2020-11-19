@@ -20,7 +20,11 @@
 
 관심있는 개발자들의 많은 참여를 기다립니다.
 
-소만사 오픈소스 프로젝트는는 Contributor에게 항상 열려 있습니다.
+또한 아래의 커뮤니케이션 채널을 통해 소통합니다.
+ - Slack 채널 가입 링크: https://join.slack.com/t/somansa-opensource/shared_invite/zt-ikibhul1-PT~Z9R9w5xrEA8LT_pyuDg 
+ - Google Groups: sjinlee@somansa.com 으로 메일 주시면 초대장을 보내드립니다. 
+
+소만사 오픈소스 프로젝트는 Contributor에게 항상 열려 있습니다.
 
 ## 소만사에 대하여
 
