@@ -1,10 +1,10 @@
-![Image](https://github.com/SomansaOpenSource/endpointdlp/blob/master/docs/somansa%20_logo.jpg)
+![Image](https://github.com/somansa-oss/endpointdlp/blob/master/docs/somansa%20_logo.jpg)
 
 ## 소만사 오픈소스 GitHub Pages 에 오신걸 환영합니다.
 
-본 페이지는 개방형OS에서 동작하는 Endpoint DLP(Data Loss Prevention) 에이전트를 개발하는 [GitHub Repository](https://github.com/SomansaOpenSource/endpointdlp) 를 소개합니다.
+본 페이지는 개방형OS에서 동작하는 Endpoint DLP(Data Loss Prevention) 에이전트를 개발하는 [GitHub Repository](https://github.com/somansa-oss/endpointdlp) 를 소개합니다.
 
-![Image](https://github.com/SomansaOpenSource/endpointdlp/blob/master/docs/300.png)
+![Image](https://github.com/somansa-oss/endpointdlp/blob/master/docs/300.png)
 
 정보유출방지(DLP, Data Loss Prevention)는 조직내 기밀정보가 외부로 유출되는 것을 방지하는 정보보호 솔루션이며, 디바이스에 저장된 기밀정보를 검출하거나, 이동식 저장매체 또는 출력물, 네트워크 전송을 통해 유출되는 기밀정보를 탐지하여 조직의 자산을 보호할 수 있습니다.
 
@@ -16,7 +16,7 @@
 
 오픈소스 프로젝트에 참여할 개발자는 지금 "Watch", "Star", "Fork"를 클릭하세요!
 
-[Conbributing Guide](https://github.com/SomansaOpenSource/endpointdlp/blob/master/CONTRIBUTUNG.md)를 읽고 언제든 문의주세요(이상진 수석연구원: sjinlee@somansa.com).
+[Conbributing Guide](https://github.com/somansa-oss/endpointdlp/blob/master/CONTRIBUTUNG.md)를 읽고 언제든 문의주세요(이상진 수석연구원: sjinlee@somansa.com).
 
 관심있는 개발자들의 많은 참여를 기다립니다.
 
@@ -31,7 +31,7 @@
 ## For foreign developoers,
 ## Welcome to SOMANSA OPEN SOURCE GitHub Pages!
 
-This page introduces the [GitHub Repository](https://github.com/SomansaOpenSource/endpointdlp), which develops Endpoint Data Loss Prevention agent that operate on open OS.
+This page introduces the [GitHub Repository](https://github.com/somansa-oss/endpointdlp), which develops Endpoint Data Loss Prevention agent that operate on open OS.
 
 DLP(Data Loss Prevention) is an information protection solution that prevents confidential data in the organization from being leaked to the outside. It detects information to protect your organization's assets.
 
@@ -43,7 +43,7 @@ The scope of open source is "kernel control module" and "kernel control interfac
 
 If you want to contribute to this project, please "Watch", "Star", and "Fork" buttons!
 
-Please read the [Conbributing Guide](https://github.com/SomansaOpenSource/endpointdlp/blob/master/CONTRIBUTUNG.md) and contact us anytime (Senior Researcher Sang-Jin Lee: sjinlee@somansa.com).
+Please read the [Conbributing Guide](https://github.com/somansa-oss/endpointdlp/blob/master/CONTRIBUTUNG.md) and contact us anytime (Senior Researcher Sang-Jin Lee: sjinlee@somansa.com).
 
 We look forward to the participation of interested developers.
 
