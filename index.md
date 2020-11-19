@@ -1,4 +1,4 @@
-![Image](docs/somansa%20_logo.jpg)
+<p align="center"><img src="docs/somansa%20_logo.jpg"></p>
 
 ## 소만사 오픈소스 GitHub Pages 에 오신걸 환영합니다.
 
